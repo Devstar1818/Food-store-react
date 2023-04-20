@@ -1,7 +1,7 @@
 # Food Store React
 
 ### Package in Project:
-- Swiper-
+- Swiper--
 
 ## [See Website](https://hambergerstore.netlify.app/)
 
